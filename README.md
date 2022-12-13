@@ -23,6 +23,9 @@ Order by 3,4
 
 * Continents with highest death count per population
 
+![Deathpercontinent](https://user-images.githubusercontent.com/108984339/207325193-32c4a557-7d48-462b-aa28-5e491bcad892.JPG)
+
+
 * Global numbers 
 
 ![Global numbers](https://user-images.githubusercontent.com/108984339/207323802-fd2c74ed-767b-47b5-95c6-5739d1155f50.JPG)
