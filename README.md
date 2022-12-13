@@ -7,6 +7,8 @@ Select *
 From PortfolioProject..CovidDeaths
 Order by 3,4
 
+# Recommended Analysis
+
 ## 1 Import Data
 
 Select location, date, total_cases, new_cases, total_deaths, population
