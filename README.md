@@ -14,10 +14,10 @@ Order by 3,4
   This shows the likelihood of dying if you contract covid in Nigeria
 
 * Total Cases vs Population
-  
-  Shows the percentage of population with covid in Nigeria
 
-* Countries with highest infection rate compared to population
+  ![Infectionpercountry](https://user-images.githubusercontent.com/108984339/207324203-28d6c09e-90ed-412b-8d18-eef73f43ff73.JPG)
+
+* Countries with highest infection rate compared to population 
 
 * Countries with highest death count per population
 
