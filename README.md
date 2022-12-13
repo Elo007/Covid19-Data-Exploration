@@ -25,6 +25,8 @@ Order by 3,4
 
 * Global numbers 
 
+![Global numbers](https://user-images.githubusercontent.com/108984339/207323802-fd2c74ed-767b-47b5-95c6-5739d1155f50.JPG)
+
 * Total Population vs Vaccinations
 
   Showing the Percentage of Population that have received at least one Covid vaccine
